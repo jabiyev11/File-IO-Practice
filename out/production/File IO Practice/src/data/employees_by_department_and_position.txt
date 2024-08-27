@@ -1,0 +1,336 @@
+                          Department: FINANCE
+
+Position: SENIOR
+ID: 3
+Name: Michael
+Department: FINANCE
+Start Date: 2008-11-22
+Salary: $75000.0
+--------------------------------
+ID: 9
+Name: James
+Department: FINANCE
+Start Date: 2007-04-14
+Salary: $85000.0
+--------------------------------
+ID: 12
+Name: Mary
+Department: FINANCE
+Start Date: 2009-10-10
+Salary: $72000.0
+--------------------------------
+ID: 22
+Name: Anthony
+Department: FINANCE
+Start Date: 2006-05-19
+Salary: $78000.0
+--------------------------------
+ID: 27
+Name: Kevin
+Department: FINANCE
+Start Date: 2008-07-30
+Salary: $74000.0
+--------------------------------
+ID: 32
+Name: Helen
+Department: FINANCE
+Start Date: 2008-03-18
+Salary: $73000.0
+--------------------------------
+ID: 38
+Name: Betty
+Department: FINANCE
+Start Date: 2006-10-19
+Salary: $76000.0
+--------------------------------
+ID: 45
+Name: Raymond
+Department: FINANCE
+Start Date: 2007-06-10
+Salary: $84000.0
+--------------------------------
+ID: 49
+Name: George
+Department: FINANCE
+Start Date: 2006-09-14
+Salary: $77000.0
+--------------------------------
+
+
+Position: MANAGER
+ID: 17
+Name: Charles
+Department: FINANCE
+Start Date: 2012-08-12
+Salary: $65000.0
+--------------------------------
+ID: 41
+Name: Frank
+Department: FINANCE
+Start Date: 2011-11-06
+Salary: $65000.0
+--------------------------------
+
+
+Position: EXECUTIVE
+ID: 29
+Name: Steven
+Department: FINANCE
+Start Date: 2001-04-28
+Salary: $88000.0
+--------------------------------
+                          Department: MARKETING
+
+Position: SENIOR
+ID: 15
+Name: Joseph
+Department: MARKETING
+Start Date: 2010-05-17
+Salary: $60000.0
+--------------------------------
+ID: 23
+Name: Brian
+Department: MARKETING
+Start Date: 2014-09-16
+Salary: $53000.0
+--------------------------------
+ID: 39
+Name: Larry
+Department: MARKETING
+Start Date: 2013-09-17
+Salary: $53000.0
+--------------------------------
+
+
+Position: MANAGER
+ID: 8
+Name: Patricia
+Department: MARKETING
+Start Date: 2011-03-05
+Salary: $58000.0
+--------------------------------
+ID: 30
+Name: Dorothy
+Department: MARKETING
+Start Date: 2011-10-25
+Salary: $62000.0
+--------------------------------
+ID: 46
+Name: Debra
+Department: MARKETING
+Start Date: 2013-05-25
+Salary: $56000.0
+--------------------------------
+                          Department: HR
+
+Position: SENIOR
+ID: 19
+Name: Daniel
+Department: HR
+Start Date: 2009-01-22
+Salary: $70000.0
+--------------------------------
+
+
+Position: MANAGER
+ID: 2
+Name: Jane
+Department: HR
+Start Date: 2010-03-15
+Salary: $60000.0
+--------------------------------
+ID: 7
+Name: Robert
+Department: HR
+Start Date: 2012-09-10
+Salary: $62000.0
+--------------------------------
+ID: 14
+Name: Barbara
+Department: HR
+Start Date: 2011-12-22
+Salary: $67000.0
+--------------------------------
+ID: 24
+Name: Karen
+Department: HR
+Start Date: 2010-11-08
+Salary: $69000.0
+--------------------------------
+ID: 33
+Name: Scott
+Department: HR
+Start Date: 2011-02-13
+Salary: $67000.0
+--------------------------------
+ID: 40
+Name: Lisa
+Department: HR
+Start Date: 2012-05-04
+Salary: $61000.0
+--------------------------------
+ID: 47
+Name: Gerald
+Department: HR
+Start Date: 2010-02-11
+Salary: $70000.0
+--------------------------------
+                          Department: SALES
+
+Position: SENIOR
+ID: 16
+Name: Susan
+Department: SALES
+Start Date: 2005-09-30
+Salary: $81000.0
+--------------------------------
+ID: 43
+Name: Eric
+Department: SALES
+Start Date: 2005-08-02
+Salary: $82000.0
+--------------------------------
+
+
+Position: MANAGER
+ID: 11
+Name: David
+Department: SALES
+Start Date: 2012-01-02
+Salary: $64000.0
+--------------------------------
+ID: 20
+Name: Matthew
+Department: SALES
+Start Date: 2011-07-07
+Salary: $56000.0
+--------------------------------
+ID: 25
+Name: Edward
+Department: SALES
+Start Date: 2012-06-01
+Salary: $59000.0
+--------------------------------
+ID: 36
+Name: Sharon
+Department: SALES
+Start Date: 2011-04-21
+Salary: $58000.0
+--------------------------------
+ID: 48
+Name: Stephanie
+Department: SALES
+Start Date: 2011-12-19
+Salary: $60000.0
+--------------------------------
+
+
+Position: EXECUTIVE
+ID: 5
+Name: William
+Department: SALES
+Start Date: 2000-02-29
+Salary: $90000.0
+--------------------------------
+                          Department: IT
+
+Position: EXECUTIVE
+ID: 35
+Name: Ronald
+Department: IT
+Start Date: 1999-12-01
+Salary: $92000.0
+--------------------------------
+
+
+Position: JUNIOR
+ID: 1
+Name: John
+Department: IT
+Start Date: 2015-05-01
+Salary: $50000.0
+--------------------------------
+ID: 4
+Name: Emily
+Department: IT
+Start Date: 2013-07-19
+Salary: $54000.0
+--------------------------------
+ID: 6
+Name: Linda
+Department: IT
+Start Date: 2016-06-30
+Salary: $48000.0
+--------------------------------
+ID: 10
+Name: Jennifer
+Department: IT
+Start Date: 2014-08-23
+Salary: $55000.0
+--------------------------------
+ID: 13
+Name: Richard
+Department: IT
+Start Date: 2016-04-11
+Salary: $51000.0
+--------------------------------
+ID: 18
+Name: Jessica
+Department: IT
+Start Date: 2017-03-19
+Salary: $47000.0
+--------------------------------
+ID: 21
+Name: Ashley
+Department: IT
+Start Date: 2015-11-03
+Salary: $50000.0
+--------------------------------
+ID: 26
+Name: Michelle
+Department: IT
+Start Date: 2015-01-20
+Salary: $52000.0
+--------------------------------
+ID: 28
+Name: Donna
+Department: IT
+Start Date: 2013-02-14
+Salary: $54000.0
+--------------------------------
+ID: 31
+Name: Jason
+Department: IT
+Start Date: 2014-06-02
+Salary: $51000.0
+--------------------------------
+ID: 34
+Name: Amy
+Department: IT
+Start Date: 2016-08-27
+Salary: $48000.0
+--------------------------------
+ID: 37
+Name: Justin
+Department: IT
+Start Date: 2017-12-11
+Salary: $46000.0
+--------------------------------
+ID: 42
+Name: Sandra
+Department: IT
+Start Date: 2014-03-30
+Salary: $54000.0
+--------------------------------
+ID: 44
+Name: Katherine
+Department: IT
+Start Date: 2015-12-15
+Salary: $50000.0
+--------------------------------
+ID: 50
+Name: Diana
+Department: IT
+Start Date: 2018-05-21
+Salary: $45000.0
+--------------------------------

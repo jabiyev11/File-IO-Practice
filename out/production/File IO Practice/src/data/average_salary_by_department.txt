@@ -1,0 +1,15 @@
+----------------------------
+Department: FINANCE
+Average Salary: 76000.0
+----------------------------
+Department: MARKETING
+Average Salary: 57000.0
+----------------------------
+Department: HR
+Average Salary: 65750.0
+----------------------------
+Department: SALES
+Average Salary: 68750.0
+----------------------------
+Department: IT
+Average Salary: 52937.5

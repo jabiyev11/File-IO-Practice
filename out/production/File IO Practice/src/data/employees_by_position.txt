@@ -1,0 +1,13 @@
+
+-------------------------
+Position: SENIOR
+Employee Count: 15
+-------------------------
+Position: MANAGER
+Employee Count: 17
+-------------------------
+Position: EXECUTIVE
+Employee Count: 3
+-------------------------
+Position: JUNIOR
+Employee Count: 15

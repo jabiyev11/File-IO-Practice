@@ -1,0 +1,68 @@
+New Employees
+--------------------------------
+ID: 1
+Name: John
+Department: IT
+Start Date: 2015-05-01
+Salary: $50000.0
+--------------------------------
+ID: 6
+Name: Linda
+Department: IT
+Start Date: 2016-06-30
+Salary: $48000.0
+--------------------------------
+ID: 13
+Name: Richard
+Department: IT
+Start Date: 2016-04-11
+Salary: $51000.0
+--------------------------------
+ID: 18
+Name: Jessica
+Department: IT
+Start Date: 2017-03-19
+Salary: $47000.0
+--------------------------------
+ID: 21
+Name: Ashley
+Department: IT
+Start Date: 2015-11-03
+Salary: $50000.0
+--------------------------------
+ID: 23
+Name: Brian
+Department: MARKETING
+Start Date: 2014-09-16
+Salary: $53000.0
+--------------------------------
+ID: 26
+Name: Michelle
+Department: IT
+Start Date: 2015-01-20
+Salary: $52000.0
+--------------------------------
+ID: 34
+Name: Amy
+Department: IT
+Start Date: 2016-08-27
+Salary: $48000.0
+--------------------------------
+ID: 37
+Name: Justin
+Department: IT
+Start Date: 2017-12-11
+Salary: $46000.0
+--------------------------------
+ID: 44
+Name: Katherine
+Department: IT
+Start Date: 2015-12-15
+Salary: $50000.0
+--------------------------------
+ID: 50
+Name: Diana
+Department: IT
+Start Date: 2018-05-21
+Salary: $45000.0
+--------------------------------

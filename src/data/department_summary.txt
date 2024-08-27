@@ -1,0 +1,25 @@
+Department: SALES
+Total Salary: $550000.0
+Average Salary: $68750.0
+Employee Count: 8
+-------------------------------------------------
+Department: MARKETING
+Total Salary: $342000.0
+Average Salary: $57000.0
+Employee Count: 6
+-------------------------------------------------
+Department: HR
+Total Salary: $526000.0
+Average Salary: $65750.0
+Employee Count: 8
+-------------------------------------------------
+Department: IT
+Total Salary: $847000.0
+Average Salary: $52937.5
+Employee Count: 16
+-------------------------------------------------
+Department: FINANCE
+Total Salary: $912000.0
+Average Salary: $76000.0
+Employee Count: 12
+-------------------------------------------------

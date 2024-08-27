@@ -1,0 +1,6 @@
+ID: 35
+Name: Ronald
+Department: IT
+Start Date: 1999-12-01
+Salary: $92000.0
+--------------------------------
